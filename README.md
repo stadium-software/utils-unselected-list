@@ -1,6 +1,6 @@
 # Unselected List <!-- omit in toc -->
 
-Get the list of unselected items from a DataGrid. 
+Get a list of items that are in one list, but not in another (the difference). Use this to get the list of unselected items from a DataGrid or a CheckBoxList. 
 
 ![](images/View.gif)
 
