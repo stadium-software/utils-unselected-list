@@ -49,9 +49,9 @@ return filtered;
    1. List: The complete list of data (e.g. DataGrid.Data)
    2. SelectedList: The slice of data to be excluded form the complete list (e.g. DataGrid.SelectedData)
 
-The Global Script returns the List of items that were in the *List*, but not in the *SelectedList*
-
 ![](images/ScriptInputParams.png)
+
+The Global Script returns the List of items that were in the *List*, but not in the *SelectedList*
 
 ## Working with Stadium Repos
 Stadium Repos are not static. They change as additional features are added and bugs are fixed. Using the right method to work with Stadium Repos allows for upgrading them in a controlled manner. How to use and update application repos is described here 
